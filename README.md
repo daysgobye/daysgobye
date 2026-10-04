@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Full-stack engineer, TypeScript, distributed backend systems, and embedded firmware. I co-own and operate [Boardsource](https://github.com/boardsource) with my business partner. Together we've built and rebuilt an e-commerce platform serving thousands of ergo hobbyists for over 7 years, alongside the hardware/software tools below.
+Full-stack engineer TypeScript, distributed backend systems, and AI-assisted development. I co-own and operate [Boardsource](https://github.com/boardsource) with my business partner. Together we've built and rebuilt an e-commerce platform serving thousands of ergo hobbyists for over 7 years, alongside the hardware/software tools below. I'm also a daily user of AI coding agents (Claude, Crush, OpenCode) to ship production features faster.
 
 Las Vegas, NV, open to remote work
 SmithCole@pm.me
@@ -15,11 +15,11 @@ Open-source desktop app (SolidJS/Electron) for configuring mechanical keyboards 
 ### [boardsource/pegBoards](https://github.com/boardsource/pegBoards)
 The open hardware/config data library behind Peg, board definitions and configuration data for the community. 36+ stars, 23+ forks, 385+ commits.
 
-### [boardsource/docs_server](https://github.com/boardsource/docs_server)
-API server that keeps documentation open-source and sourced live from GitHub, while display code stays closed-source. 
+### [daysgobye/Corporate-Capital](https://github.com/daysgobye/Corporate-Capital)
+A satirical idle-clicker game about automating your way out of a customer service job. Built and shipped solo using Claude; live on [Playgama](https://playgama.com/game/corporate-capital) under gila monster games.
 
 ---
 
 ## Tech I work with
 
-`TypeScript` `JavaScript` `Python` `React` `SolidJS` `Electron` `PostgreSQL` `Redis` `LangChain` `GitHub Actions` `Stripe/PayPal` `Embedded Firmware`
+`TypeScript` `JavaScript` `Python` `React` `SolidJS` `Electron` `PostgreSQL` `Redis` `LangChain` `GitHub Actions` `Stripe/PayPal` `Embedded Firmware` `Claude` `AI-Assisted Development`
